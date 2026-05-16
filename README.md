@@ -1,1 +1,1 @@
-Лежит в папке /bitrix/templates/furniture_gray/components/bitrix/news.list/my_news/template.php.
+Лежит в папке local\templates\landing24\components\bitrix\form.result.new\custom_form\template.php.
