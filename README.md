@@ -1,1 +1,1 @@
-Лежит в папке local\templates\landing24\components\bitrix\form.result.new\custom_form\template.php.
+Шаблон компонента form.result.new. Лежит в папке local\templates\landing24\components\bitrix\form.result.new\custom_form\template.php.
